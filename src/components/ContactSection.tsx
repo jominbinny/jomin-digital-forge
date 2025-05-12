@@ -1,6 +1,5 @@
-
 import React, { useState } from 'react';
-import { Mail, Phone, GitHub, Linkedin, MapPin } from 'lucide-react';
+import { Mail, Phone, Github, Linkedin, MapPin } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
@@ -94,7 +93,7 @@ const ContactSection = () => {
                   rel="noopener noreferrer"
                   className="bg-secondary hover:bg-muted w-12 h-12 rounded-full flex items-center justify-center transition-colors"
                 >
-                  <GitHub size={20} />
+                  <Github size={20} />
                 </a>
                 <a 
                   href="https://linkedin.com/in/jominbinny" 
