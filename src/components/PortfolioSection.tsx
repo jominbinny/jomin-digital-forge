@@ -19,8 +19,8 @@ const projects = [
     description: 'Web app for locating destinations and parking spots in Kozhikode city.',
     tags: ['JavaScript', 'React', 'Google Maps API'],
     image: 'https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80',
-    githubUrl: 'https://github.com/jominbinny',
-    demoUrl: '#'
+    githubUrl: 'https://github.com/AmarnathSooraj/CalGo',
+    demoUrl: 'calgo.vercel.app'
   },
   {
     id: 3,
