@@ -10,7 +10,7 @@ const projects = [
     description: 'Built using Python libraries to listen and respond to prompts and perform system tasks.',
     tags: ['Python', 'Speech Recognition', 'AI'],
     image: 'https://images.unsplash.com/photo-1531746790731-6c087fecd65a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1606&q=80',
-    githubUrl: 'https://github.com/jominbinny',
+    githubUrl: 'https://github.com/jominbinny/virtual-assistant',
     // demoUrl: '#'
   },
   {
